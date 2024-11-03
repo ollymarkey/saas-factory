@@ -4,15 +4,15 @@ This is a saas starter template. It is completely open source so feel free to us
 
 ## Tech Stack & Roadmap
 
-[ ] [Next.js 15 Containerized](https://nextjs.org/)
-[ ] Tailwind CSS
-[ ] [Shadcn UI](https://ui.shadcn.com/)
-[ ] Postgres Docker container
-[ ] [Drizzle ORM](https://orm.drizzle.team/)
-[ ] [Stripe](https://docs.stripe.com/)
-[ ] Docker Compose
-[ ] [Better Auth](https://www.better-auth.com/)
-[ ] [Uploadthing](https://uploadthing.com/)
+- [ ] [Next.js 15 Containerized](https://nextjs.org/)
+- [ ] Tailwind CSS
+- [ ] [Shadcn UI](https://ui.shadcn.com/)
+- [ ] Postgres Docker container
+- [ ] [Drizzle ORM](https://orm.drizzle.team/)
+- [ ] [Stripe](https://docs.stripe.com/)
+- [ ] Docker Compose
+- [ ] [Better Auth](https://www.better-auth.com/)
+- [ ] [Uploadthing](https://uploadthing.com/)
  
 
 ## Getting Started
